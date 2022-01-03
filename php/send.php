@@ -77,11 +77,11 @@
 		/* Mail Sending
 		==================================== */
 
-		// Setup for site owner
-		$to = "websolutions.ultimate@gmail.com"; // Your email goes here	
+		
+		$to = "olara.lamara@gmail.com"; 	
 		$subject = "Request";
 		
-		$headers = "From: Orabel <replyto@yourdomain.com>";		
+		$headers = "From: Orabel <olara.lamara@gmail.com>";		
 
 		$message = "Request is arrived with the details below." . "\n\n";
 		$message .= "CONTACT DATA" . "\n";
